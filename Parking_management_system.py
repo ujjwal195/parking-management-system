@@ -43,7 +43,7 @@ def made_by():
     msg = ''' 
             Parking Management system made by           : Ujjwal Sancheti and Shruti Sharma
             Roll No                                     : 22112032 & 22112027
-            School Name                                 : CHRIST(deemed to be university)
+            Collage Name                                 : CHRIST(deemed to be university)
             
             
             \n\n\n
